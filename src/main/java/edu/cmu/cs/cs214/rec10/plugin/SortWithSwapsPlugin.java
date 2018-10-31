@@ -6,8 +6,8 @@ import edu.cmu.cs.cs214.rec10.framework.core.GamePlugin;
 import java.util.Random;
 
 public class SortWithSwapsPlugin implements GamePlugin {
-    private int ONE = 1;
-    private int TEN = 10;
+    private int one = 1;
+    private int ten = 10;
 
     // Describes whether the current move is over
     public Boolean move = false;
